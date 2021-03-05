@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="showmanTitel">The Greatest Showman</string>
+    <string name="gerne">Biography, Drama, Musical</string>
+    <string name="showmanPic">ShowmanPic</string>
+    <string name="beschreibung">Orphaned, penniless, but ambitious and with a mind crammed with imagination and fresh ideas, the American entertainer, Phineas Taylor Barnum, will always be remembered as the man with the gift to blur the line between reality and fiction. Thirsty for innovation and hungry for success, the son of a tailor manages to open a wax museum; however, he soon shifts focus to the unique and the peculiar, introducing extraordinary, never-seen-before live acts on the circus stage. Now, some people call Barnum\'s rich collection of oddities, an outright freak show; but, when Phineas, obsessed for cheers and respectability, gambles everything on the opera singer, Jenny Lind, to appeal to a high-brow audience, he will lose sight of the most crucial aspect of his life: his family. Will Barnum, the greatest showman, risk it all to be accepted? Written by Nick Riganas</string>
+    <string name="storie">Story</string>
+    <string name="creators">Creators:</string>
+    <string name="creatorsName">Michael Gracey, Jenny Bicks, Bill Condon</string>
+    <string name="actors">Actors:</string>
+    <string name="actorName">Hugh Jackman, Michelle Williams, Zac Efron </string>
+    <string name="floatButton">add to favorites</string>
+</resources>
