@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
             "Biography, Drama, Musical",
             "Michael Gracey, Jenny Bicks, Bill Condon",
             "Hugh Jackman, Michelle Williams, Zac Efron"
+
         )
         binding.movie = showman
 
