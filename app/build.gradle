@@ -38,6 +38,7 @@ android {
 
 dependencies {
 
+    implementation "com.google.android.material:material:$version"
     implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
     implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
