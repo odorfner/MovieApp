@@ -10,4 +10,8 @@
     <string name="actors">Actors:</string>
     <string name="actorName">Hugh Jackman, Michelle Williams, Zac Efron </string>
     <string name="floatButton">add to favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to MovieApp!</string>
+    <string name="watchlist">My Watchlist</string>
 </resources>
